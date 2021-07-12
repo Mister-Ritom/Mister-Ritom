@@ -1,16 +1,13 @@
-### Hi there 👋
+# I'm RitomG
+<img src="https://komarev.com/ghpvc/?username=RitomG&style=flat-square" alt="View Counter"/>
+<img src="https://komarev.com/ghpvc/?username=RitomG69&style=flat-square" alt="View Counter"/>
 
-<!--
-**RitomG69/RitomG69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Learning how to program in java, mainly through minecraft modding
 
-Here are some ideas to get you started:
+current projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AnataClient ~ 1.12.2 forge cheat for anarchy servers
+- 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RitomG69=nord&margin-w=15&margin-h=15&column=7" />
+</p>
