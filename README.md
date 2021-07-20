@@ -11,5 +11,5 @@ current projects:
 - Raptor1.16 ~ 1.16 fabric version of the legendary RaptorClient
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RitomG69=nord&margin-w=15&margin-h=15&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RitomG69" />
 </p>
