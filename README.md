@@ -31,7 +31,7 @@
 <p align="left">
 <a href="https://twitter.com/anonsapps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anonsapps" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/ritom1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ritom1" height="30" width="40" /></a>
-<a href="https://instagram.com/ritom713422" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ritom713422" height="30" width="40" /></a>
+<a href="https://instagram.com/cute_boy_ritom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insta" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
