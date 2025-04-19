@@ -19,6 +19,14 @@
 
 ---
 
+### 🏆 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mister-ritom&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ### 💼 Projects I'm Proud Of
 
 | 🚀 Project | 📝 Description |
