@@ -31,7 +31,7 @@
 
 | 🚀 Project | 📝 Description |
 |----------|---------------|
-| [**Adda**](https://github.com/mister-ritom/adda) | Group-based chat app like Discord, but cooler (built with Flutter + PocketBase) |
+| [**Adda**](https://github.com/mister-ritom/adda) | Group-based chat app like Discord, but cooler (built with Flutter + Firebase) |
 | [**My Notes**](https://github.com/mister-ritom/mynotes) | A minimalist notes app – just write, don’t overthink |
 | [**Ananta**](https://github.com/mister-ritom/ananta) | A Minecraft utility mod for anarchy servers like 2b2t |
 | [**Parla**](https://github.com/mister-ritom/parla) *(WIP)* | A secure messaging app – **not even the server can spill your tea ☕** |
