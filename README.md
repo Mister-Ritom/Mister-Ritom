@@ -10,7 +10,7 @@
 
 ### 🧑‍💻 About Me
 
-- 👶 I'm **16**, but my code is already paying rent in my GitHub
+- 👶 I'm **18**, but my code is already paying rent in my GitHub
 - 🔥 Obsessed with Flutter, Firebase, and Supabase (free plans FTW)
 - 💭 Currently dreaming of building the **most private chat app ever**
 - 🛠️ I break stuff until it works
