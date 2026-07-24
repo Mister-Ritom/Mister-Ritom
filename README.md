@@ -92,5 +92,5 @@ Five years in and I still find it hard to close the laptop. Fuelled by ideas, co
 
 <p align="center">
   <i>Open to collabs, freelance work, or just talking about why Dart is underrated.</i><br/>
-  <a href="https://ritom.site">ritom.site</a> · <a href="https://twitter.com/mister_ritom">@mister_ritom</a>
+  <a href="https://in">in</a> · <a href="mailto:me@ritom.in">Send Email</a>
 </p>
