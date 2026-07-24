@@ -24,7 +24,7 @@ Five years in and I still find it hard to close the laptop. Fuelled by ideas, co
 - 💜 **Favourites:** Dart & Kotlin (Java is where it started, Kotlin is where it lives)
 - 📱 **Current obsession:** Building full-stack mobile apps with Flutter, React Native & Supabase
 - 🔒 **Dream project:** The most private, user-respecting social app ever built
-- 🌐 **Website:** [ritom.site](https://ritom.site)
+- 🌐 **Website:** [ritom.in](https://ritom.in)
 
 ---
 
