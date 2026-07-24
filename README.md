@@ -6,7 +6,7 @@
 
 <p>
   <a href="https://ritom.in"><img src="https://img.shields.io/badge/ritom.site-7C3AED?style=for-the-badge&logo=safari&logoColor=white" /></a>
-  <a href="https://twitter.com/mister_ritom"><img src="https://img.shields.io/badge/@mister__ritom-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://x/1ritomg"><img src="https://img.shields.io/badge/@1ritomg-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Open%20to%20Collabs-22c55e?style=for-the-badge&logo=handshake&logoColor=white" />
 </p>
 
